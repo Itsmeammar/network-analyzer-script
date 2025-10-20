@@ -2,6 +2,7 @@
 
 A simple Python script to capture and analyze network traffic.
 Built for learning and practicing basic packet analysis using **Scapy**.
+
 This script was generated with the help of AI, guided by thoughtful prompts and design decisions by the author.
 
 ---
