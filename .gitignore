@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pcap
+Network_analysis/
+.DS_Store
+*.log
+*.pyc
+.vscode/
+.idea/
